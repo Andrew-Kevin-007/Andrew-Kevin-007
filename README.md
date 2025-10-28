@@ -33,12 +33,12 @@ Motto: "Where logic meets art."
   </a>
 </div>
 
-
+<hr style="width:50%;border:0.5px solid #222;border-radius:5px;">
 <p align="center">
   <i style="color:gray;">tuned in while building ☁️</i>
 </p>
 
-
+<hr style="width:50%;border:0.5px solid #222;border-radius:5px;">
 
 <p align="center">
   <img 
@@ -47,7 +47,7 @@ Motto: "Where logic meets art."
   />
 </p>
 
-
+<hr style="width:50%;border:0.5px solid #222;border-radius:5px;">
 
 <p align="center">
 > *“Design it like Apple. Build it like SpaceX.”*  

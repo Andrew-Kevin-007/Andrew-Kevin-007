@@ -10,12 +10,25 @@
 🧠 Learning: Distributed Systems, Deep Learning, Cloud Architecture  
 ⚡ Motto: "Build beautifully. Think boldly."
 
-<h3 align="center">🎧 Currently Vibing To</h3>
+<h3 align="center" style="color:#00E5FF; font-family:'JetBrains Mono', monospace;">
+  🎧 Currently Vibing To
+</h3>
+
 <p align="center">
   <a href="https://open.spotify.com/user/g0oyyt3dtmeerb9muk6aiwqcv" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g0oyyt3dtmeerb9muk6aiwqcv&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00E5FF&bar_color_cover=false">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=g0oyyt3dtmeerb9muk6aiwqcv&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00E5FF&bar_color_cover=false"
+      width="420"
+      alt="Spotify Now Playing"
+      style="border-radius: 12px; box-shadow: 0 0 25px rgba(0,229,255,0.15);"
+    />
   </a>
 </p>
+
+<p align="center">
+  <i style="color:gray;">tuned in while building ☁️</i>
+</p>
+
 
 
 <p align="center">

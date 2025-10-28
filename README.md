@@ -5,14 +5,16 @@
 <h3 align="center" style="font-family:'SF Pro Display','Helvetica Neue',sans-serif; font-weight:500; color:#f2f2f2; text-shadow:0 0 10px rgba(255,255,255,0.08); letter-spacing:1px;">
   Cloud Innovator · Full Stack Developer · AI Explorer · Hackathon Builder
 </h3>
+<div align ="center>
+<p>
+> A developer sculpting ideas into intelligent, aesthetic experiences.  
+> Passionate about **Cloud Systems**, **AI**, and **Edge Computing**, I design with intent and code with emotion.
 
+Based in Chennai, India  
+Currently mastering: Distributed Systems · Deep Learning · Cloud Architecture  
+Motto: "Where logic meets art."</p>
+</div>
 
-> A developer driven by curiosity and craft — I build ideas that connect design, intelligence, and human experience.  
-> Currently exploring **Cloud Computing**, **AI**, and **Edge Systems** while crafting projects that push creative boundaries.  
-
-📍 Based in Chennai, India  
-🧠 Learning: Distributed Systems, Deep Learning, Cloud Architecture  
-⚡ Motto: "Build beautifully. Think boldly."
 
 <div align="center" style="background:#0d1117; border:1px solid #1f2937; border-radius:16px; padding:20px; width:420px; box-shadow:0 0 25px rgba(0,229,255,0.1);">
 
@@ -40,10 +42,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,mongodb,aws,git,linux,tailwind,nextjs,flask,html,css" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrew-Kevin-007&show_icons=true&theme=react" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Kevin-007&theme=react" />
-</p>
+
 
 
 <p align="center">

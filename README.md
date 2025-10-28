@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Kevin Andrew</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Cloud+Innovator+☁️;Full+Stack+Developer+💻;AI+Explorer+🤖;Hackathon+Builder+⚡" alt="Typing SVG" />

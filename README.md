@@ -5,15 +5,15 @@
 <h3 align="center" style="font-family:'SF Pro Display','Helvetica Neue',sans-serif; font-weight:500; color:#f2f2f2; text-shadow:0 0 10px rgba(255,255,255,0.08); letter-spacing:1px;">
   Cloud Innovator · Full Stack Developer · AI Explorer · Hackathon Builder
 </h3>
-<div align ="center>
-<p>
+
+
 > A developer sculpting ideas into intelligent, aesthetic experiences.  
 > Passionate about **Cloud Systems**, **AI**, and **Edge Computing**, I design with intent and code with emotion.
 
 Based in Chennai, India  
 Currently mastering: Distributed Systems · Deep Learning · Cloud Architecture  
-Motto: "Where logic meets art."</p>
-</div>
+Motto: "Where logic meets art."
+
 
 
 <div align="center" style="background:#0d1117; border:1px solid #1f2937; border-radius:16px; padding:20px; width:420px; box-shadow:0 0 25px rgba(0,229,255,0.1);">

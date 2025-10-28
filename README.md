@@ -41,8 +41,8 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,mongodb,aws,git,linux,tailwind,nextjs,flask,html,css" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrew-Kevin-007&show_icons=true&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Kevin-007&theme=react" />
 </p>
 
 

@@ -43,9 +43,10 @@ Motto: "Where logic meets art."
 <p align="center">
   <img 
     src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,mongodb,aws,git,linux,tailwind,nextjs,flask,html,css" 
-    style="filter: grayscale(30%) brightness(110%); margin-top: 10px;"
+    style="filter: grayscale(100%) brightness(120%) contrast(90%); margin-top: 10px;"
   />
 </p>
+
 
 <hr style="width:50%;border:0.5px solid #222;border-radius:5px;">
 

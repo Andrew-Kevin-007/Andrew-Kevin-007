@@ -7,14 +7,15 @@
 </h3>
 
 
-> A developer sculpting ideas into intelligent, aesthetic experiences.  
-> Passionate about **Cloud Systems**, **AI**, and **Edge Computing**, I design with intent and code with emotion.
+> I sculpt intelligent, aesthetic experiences where technology meets intent.  
+> Exploring **Cloud Systems**, **AI**, and **Edge Computing**, I code with precision and design with emotion.
 
 Based in Chennai, India  
 Currently mastering: Distributed Systems · Deep Learning · Cloud Architecture  
 Motto: "Where logic meets art."
 
 
+<hr style="width:50%;border:0.5px solid #222;border-radius:5px;">
 
 <div align="center" style="background:#0d1117; border:1px solid #1f2937; border-radius:16px; padding:20px; width:420px; box-shadow:0 0 25px rgba(0,229,255,0.1);">
 
@@ -40,14 +41,17 @@ Motto: "Where logic meets art."
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,mongodb,aws,git,linux,tailwind,nextjs,flask,html,css" />
+  <img 
+    src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,mongodb,aws,git,linux,tailwind,nextjs,flask,html,css" 
+    style="filter: grayscale(30%) brightness(110%); margin-top: 10px;"
+  />
 </p>
 
 
 
 <p align="center">
-  <i>"Design it like Apple. Build it like SpaceX."</i><br>
-  🌙 Crafted with caffeine, code, and curiosity.
+> *“Design it like Apple. Build it like SpaceX.”*  
+> Crafted with caffeine, code, and curiosity.
 </p>
 
 

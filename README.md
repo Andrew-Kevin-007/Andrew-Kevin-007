@@ -1,7 +1,11 @@
-<h1 align="center">Kevin Andrew</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Cloud+Innovator+☁️;Full+Stack+Developer+💻;AI+Explorer+🤖;Hackathon+Builder+⚡" alt="Typing SVG" />
-</p>
+<h1 align="center" style="font-size: 3.5rem; font-weight: 600; letter-spacing: 2px; color: #f5f5f7; font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', sans-serif;">
+  Kevin Andrew
+</h1>
+
+<h3 align="center" style="font-family:'SF Pro Display','Helvetica Neue',sans-serif; font-weight:500; color:#f2f2f2; text-shadow:0 0 10px rgba(255,255,255,0.08); letter-spacing:1px;">
+  Cloud Innovator · Full Stack Developer · AI Explorer · Hackathon Builder
+</h3>
+
 
 > A developer driven by curiosity and craft — I build ideas that connect design, intelligence, and human experience.  
 > Currently exploring **Cloud Computing**, **AI**, and **Edge Systems** while crafting projects that push creative boundaries.  
@@ -24,11 +28,6 @@
       style="border-radius:12px; margin-top:8px;"
     />
   </a>
-
-  <p style="color:gray; font-size:13px; margin-top:10px;">
-    tuned in while building ☁️
-  </p>
-
 </div>
 
 

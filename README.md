@@ -1,6 +1,10 @@
+<!-- Animated Name -->
 <p align="center">
-  <b>Kevin Andrew</b><br/>
-  Cloud & Edge Computing · Intelligent Systems
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3500&pause=1000&color=F5F5F7&center=true&vCenter=true&width=500&lines=Kevin+Andrew" />
+</p>
+
+<p align="center">
+  <sub>Cloud & Edge Computing · Intelligent Systems</sub>
 </p>
 
 <p align="center">
@@ -9,16 +13,21 @@
 
 ---
 
-## About
+<details>
+  <summary><b>About</b></summary>
 
-I design and engineer intelligent systems where technology meets intent.  
-Most of my work sits at the intersection of **Cloud Systems**, **Edge Computing**, and **Applied AI** — focused on building software that scales, survives real-world constraints, and remains understandable over time.
+  <br/>
 
-I care deeply about **systems thinking**, clean abstractions, and end-to-end ownership.
+  I design and engineer intelligent systems where technology meets intent.  
+  Most of my work sits at the intersection of **Cloud Systems**, **Edge Computing**, and **Applied AI** — focused on building software that scales, survives real-world constraints, and remains understandable over time.
 
-- 📍 Chennai, India  
-- 🧠 Currently learning deeply: Distributed Systems · Deep Learning · Cloud Architecture  
-- 🎯 Motto: *Where logic meets art*
+  I care deeply about **systems thinking**, clean abstractions, and end-to-end ownership.
+
+  - 📍 Chennai, India  
+  - 🧠 Currently learning deeply: Distributed Systems · Deep Learning · Cloud Architecture  
+  - 🎯 Motto: *Where logic meets art*
+
+</details>
 
 ---
 
@@ -28,10 +37,10 @@ I care deeply about **systems thinking**, clean abstractions, and end-to-end own
   <br/>
 
   - **Smart Management System (Intern Project)**  
-    Internal system for task assignment, progress tracking, role-based access, and analytics — built for real users, not demos.
+    Internal system for task assignment, progress tracking, role-based access, and analytics — built for real usage, not demos.
 
   - **NeoCV**  
-    Computer-vision focused work exploring face recognition, detection pipelines, and real-time processing using OpenCV and deep learning.
+    Computer-vision–focused work exploring face recognition, detection pipelines, and real-time processing using OpenCV and deep learning.
 
   - **NEXUS**  
     Experimental platform exploring scalable backend design, API orchestration, and modular system architecture.
@@ -75,7 +84,7 @@ I care deeply about **systems thinking**, clean abstractions, and end-to-end own
   <a href="https://open.spotify.com/user/g0oyyt3dtmeerb9muk6aiwqcv" target="_blank">
     <img 
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=g0oyyt3dtmeerb9muk6aiwqcv&theme=novatorem&background_color=0d1117"
-      width="340"
+      width="320"
     />
   </a>
 

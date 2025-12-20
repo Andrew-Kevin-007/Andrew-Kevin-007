@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="font-family:'SF Pro Display','Helvetica Neue',sans-serif; font-weight:500; color:#f2f2f2; text-shadow:0 0 10px rgba(255,255,255,0.08); letter-spacing:1px;">
-  Cloud Innovator · Full Stack Developer · AI Explorer · Hackathon Builder
+  Cloud & Edge Computing Engineer · Intelligent Systems
 </h3>
 
 

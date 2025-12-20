@@ -42,33 +42,34 @@
 
 <p align="center">
   <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,c" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c&size=32" />
 </p>
 
 <p align="center">
   <b>Systems & Cloud</b><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx&size=32" />
 </p>
 
 <p align="center">
   <b>Backend & APIs</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,mongodb,postgres&size=32" />
 </p>
 
 <p align="center">
   <b>Frontend & UI</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&size=32" />
 </p>
 
 <p align="center">
   <b>AI / ML & Data</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&size=32" />
 </p>
 
 <p align="center">
   <b>DevOps & Tooling</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=git,github,bash&size=32" />
 </p>
+
 
 <hr/>
 

@@ -14,7 +14,7 @@
 I design and engineer intelligent systems where technology meets intent.  
 Most of my work sits at the intersection of **Cloud Systems**, **Edge Computing**, and **Applied AI** — focused on building software that scales, survives real-world constraints, and remains understandable over time.
 
-I’m particularly interested in **systems thinking**, backend architecture, and AI used as a tool rather than a gimmick.
+I care deeply about **systems thinking**, clean abstractions, and end-to-end ownership.
 
 - 📍 Chennai, India  
 - 🧠 Currently learning deeply: Distributed Systems · Deep Learning · Cloud Architecture  
@@ -22,42 +22,29 @@ I’m particularly interested in **systems thinking**, backend architecture, and
 
 ---
 
-## Selected Work
+<details>
+  <summary><b>Selected Work</b></summary>
 
-A few things I’ve built or am actively working on:
+  <br/>
 
-- **Smart Management System (Intern Project)**  
-  Internal system for task assignment, progress tracking, role-based access, and analytics — built with a focus on real usage rather than demos.
+  - **Smart Management System (Intern Project)**  
+    Internal system for task assignment, progress tracking, role-based access, and analytics — built for real users, not demos.
 
-- **NeoCV**  
-  Computer-vision–focused project exploring face recognition, detection pipelines, and real-time processing using OpenCV and deep learning models.
+  - **NeoCV**  
+    Computer-vision focused work exploring face recognition, detection pipelines, and real-time processing using OpenCV and deep learning.
 
-- **NEXUS**  
-  Experimental platform exploring scalable backend design, API orchestration, and modular system architecture.
+  - **NEXUS**  
+    Experimental platform exploring scalable backend design, API orchestration, and modular system architecture.
 
-- **EIDEN**  
-  Ongoing systems-focused project centered around intelligent automation and clean abstractions.
+  - **EIDEN**  
+    Ongoing systems-focused project centered around intelligent automation and clean abstractions.
 
-I enjoy building end-to-end systems more than isolated features.
-
----
-
-## GitHub Pulse
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrew-Kevin-007&show_icons=false&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Kevin-007&theme=github-dark&hide_border=true" />
-</p>
+</details>
 
 ---
-
-## What I Work With (when needed)
 
 <details>
-  <summary>technical stack</summary>
+  <summary><b>Technical Focus</b></summary>
 
   <br/>
 
@@ -80,10 +67,8 @@ I enjoy building end-to-end systems more than isolated features.
 
 ---
 
-## 🎧 Currently Vibing To
-
 <details>
-  <summary>click to reveal</summary>
+  <summary>🎧 <b>Currently Vibing To</b></summary>
 
   <br/>
 
@@ -98,10 +83,17 @@ I enjoy building end-to-end systems more than isolated features.
 
 ---
 
-## Connect
+<details>
+  <summary><b>Connect</b></summary>
 
-- 🌐 Portfolio: https://kevinandrewa.vercel.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/kevin-andrew-a-49599528a  
+  <br/>
+
+  - 🌐 Portfolio: https://kevinandrewa.vercel.app  
+  - 💼 LinkedIn: https://www.linkedin.com/in/kevin-andrew-a-49599528a  
+
+</details>
+
+---
 
 <p align="center">
   <sub>still learning. still building. ☁️</sub>

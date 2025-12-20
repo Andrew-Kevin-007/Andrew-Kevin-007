@@ -38,10 +38,36 @@
 
 <hr/>
 
+<h3 align="center">🧩 Technical Stack</h3>
+
 <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,mongodb,aws,git,linux,tailwind,nextjs,flask,html,css"
-  />
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c" />
+</p>
+
+<p align="center">
+  <b>Systems & Cloud</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx" />
+</p>
+
+<p align="center">
+  <b>Backend & APIs</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,mongodb,postgres" />
+</p>
+
+<p align="center">
+  <b>Frontend & UI</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+<p align="center">
+  <b>AI / ML & Data</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</p>
+
+<p align="center">
+  <b>DevOps & Tooling</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash" />
 </p>
 
 <hr/>

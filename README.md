@@ -11,8 +11,6 @@
   <i>Design it like Apple. Build it like SpaceX.</i>
 </p>
 
----
-
 <details>
   <summary><b>About</b></summary>
 
@@ -29,7 +27,6 @@
 
 </details>
 
----
 
 <details>
   <summary><b>Technical Focus</b></summary>
@@ -53,7 +50,6 @@
 
 </details>
 
----
 
 <details>
   <summary>🎧 <b>Currently Vibing To</b></summary>
@@ -84,5 +80,5 @@
 ---
 
 <p align="center">
-  <sub>still learning. still building. ☁️</sub>
+  <sub>Still learning. Still building. </sub>
 </p>

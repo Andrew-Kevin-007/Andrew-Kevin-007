@@ -52,8 +52,6 @@
 
 </details>
 
----
-
 <p align="center">
   <sub>Still learning. Still building. </sub>
 </p>

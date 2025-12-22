@@ -27,30 +27,6 @@
 
 </details>
 
-
-<details>
-  <summary><b>Technical Focus</b></summary>
-
-  <br/>
-
-  **Languages**  
-  Python · JavaScript · TypeScript · C  
-
-  **Systems & Cloud**  
-  AWS · Docker · Linux · Nginx  
-
-  **Backend & APIs**  
-  Node.js · FastAPI · Flask · MongoDB · PostgreSQL  
-
-  **AI / ML**  
-  CNNs · OpenCV · TensorFlow  
-
-  **Tooling**  
-  Git · Bash · GitHub  
-
-</details>
-
-
 <details>
   <summary>🎧 <b>Currently Vibing To</b></summary>
 
@@ -65,7 +41,6 @@
 
 </details>
 
----
 
 <details>
   <summary><b>Connect</b></summary>

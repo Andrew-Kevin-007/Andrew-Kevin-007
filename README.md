@@ -11,7 +11,7 @@
   <i>Design it like Apple. Build it like SpaceX.</i>
 </p>
 
-<details>
+
   <summary><b>About</b></summary>
 
   <br/>
@@ -25,7 +25,6 @@
   - 🧠 Currently learning deeply: Distributed Systems · Deep Learning · Cloud Architecture  
   - 🎯 Motto: *Where logic meets art*
 
-</details>
 
 <details>
   <summary>🎧 <b>Currently Vibing To</b></summary>

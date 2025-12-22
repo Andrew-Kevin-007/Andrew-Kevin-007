@@ -19,13 +19,6 @@
   I design and engineer intelligent systems where technology meets intent.  
   Most of my work sits at the intersection of **Cloud Systems**, **Edge Computing**, and **Applied AI** — focused on building software that scales, survives real-world constraints, and remains understandable over time.
 
-  I care deeply about **systems thinking**, clean abstractions, and end-to-end ownership.
-
-  - 📍 Chennai, India  
-  - 🧠 Currently learning deeply: Distributed Systems · Deep Learning · Cloud Architecture  
-  - 🎯 Motto: *Where logic meets art*
-
-
 <details>
   <summary>🎧 <b>Currently Vibing To</b></summary>
 

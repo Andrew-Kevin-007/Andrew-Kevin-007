@@ -32,27 +32,6 @@
 ---
 
 <details>
-  <summary><b>Selected Work</b></summary>
-
-  <br/>
-
-  - **Smart Management System (Intern Project)**  
-    Internal system for task assignment, progress tracking, role-based access, and analytics — built for real usage, not demos.
-
-  - **NeoCV**  
-    Computer-vision–focused work exploring face recognition, detection pipelines, and real-time processing using OpenCV and deep learning.
-
-  - **NEXUS**  
-    Experimental platform exploring scalable backend design, API orchestration, and modular system architecture.
-
-  - **EIDEN**  
-    Ongoing systems-focused project centered around intelligent automation and clean abstractions.
-
-</details>
-
----
-
-<details>
   <summary><b>Technical Focus</b></summary>
 
   <br/>

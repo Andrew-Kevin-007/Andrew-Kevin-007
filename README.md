@@ -33,7 +33,6 @@
 
 </details>
 
-
 <details>
   <summary><b>Connect</b></summary>
 

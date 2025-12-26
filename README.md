@@ -11,7 +11,6 @@
   <i>Design it like Apple. Build it like SpaceX.</i>
 </p>
 
-
   <summary><b>About</b></summary>
 
   <br/>

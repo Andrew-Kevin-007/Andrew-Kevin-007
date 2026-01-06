@@ -1,6 +1,6 @@
 <!-- Animated Name -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/57835412/219349596-b91aa724-b9da-4c5c-8edd-8920052c7bee.gif" width="350px" alt="fabianferno">  
+   Kevin Andrew A  
 </p>
 
 <p align="center">

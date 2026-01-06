@@ -1,6 +1,6 @@
 <!-- Animated Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3500&pause=1000&color=F5F5F7&center=true&vCenter=true&width=500&lines=Kevin+Andrew" />
+  <img src="https://user-images.githubusercontent.com/57835412/219349596-b91aa724-b9da-4c5c-8edd-8920052c7bee.gif" width="350px" alt="fabianferno">  
 </p>
 
 <p align="center">

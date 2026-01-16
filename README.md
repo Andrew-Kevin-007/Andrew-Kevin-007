@@ -2,7 +2,6 @@
 <p align="center">
    Kevin Andrew A  
 </p>
-
 <p align="center">
   <sub>Cloud & Edge Computing · Intelligent Systems</sub>
 </p>

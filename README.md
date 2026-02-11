@@ -5,7 +5,6 @@
 <p align="center">
   <sub>Cloud & Edge Computing · Intelligent Systems</sub>
 </p>
-
 <p align="center">
   <i>Design it like Apple. Build it like SpaceX.</i>
 </p>

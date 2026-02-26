@@ -9,7 +9,6 @@
   <i>Design it like Apple. Build it like SpaceX.</i>
 </p>
   <summary><b>About</b></summary>
-
   <br/>
 
   I design and engineer intelligent systems where technology meets intent.  

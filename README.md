@@ -18,7 +18,6 @@
   <summary>🎧 <b>Currently Vibing To</b></summary>
 
   <br/>
-
   <a href="https://open.spotify.com/user/g0oyyt3dtmeerb9muk6aiwqcv" target="_blank">
     <img 
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=g0oyyt3dtmeerb9muk6aiwqcv&theme=novatorem&background_color=0d1117"

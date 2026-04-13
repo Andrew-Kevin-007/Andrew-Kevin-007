@@ -1,7 +1,6 @@
 <div align="left">
 
-<!-- Replace the src below with your own GIF or banner -->
-Kevin Andrew A
+<h1>Kevin Andrew A</h1>
 
 ---
 

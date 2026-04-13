@@ -1,42 +1,46 @@
-<!-- Animated Name -->
-<p align="center">
-   Kevin Andrew A  
-</p>
-<p align="center">
-  <sub>Cloud & Edge Computing · Intelligent Systems</sub>
-</p>
-<p align="center">
-  <i>Design it like Apple. Build it like SpaceX.</i>
-</p>
-  <summary><b>About</b></summary>
-  <br/>
+<div align="left">
 
-  I design and engineer intelligent systems where technology meets intent.  
-  Most of my work sits at the intersection of **Cloud Systems**, **Edge Computing**, and **Applied AI** — focused on building software that scales, survives real-world constraints, and remains understandable over time.
+<!-- Replace the src below with your own GIF or banner -->
+<img src="https://user-images.githubusercontent.com/57835412/219349596-b91aa724-b9da-4c5c-8edd-8920052c7bee.gif" width="350px" alt="kevin-andrew-a" />
+
+---
+
+Engineer. Builder. Thinker.  
+I design and build intelligent systems at the intersection of **Cloud**, **Edge Computing**, and **Applied AI** — software that scales, survives real-world constraints, and stays understandable over time.
+
+*Design it like Apple. Build it like SpaceX.*
+
+---
 
 <details>
-  <summary>🎧 <b>Currently Vibing To</b></summary>
-
+  <summary><b>🎧 Currently Vibing To</b></summary>
   <br/>
   <a href="https://open.spotify.com/user/g0oyyt3dtmeerb9muk6aiwqcv" target="_blank">
-    <img 
+    <img
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=g0oyyt3dtmeerb9muk6aiwqcv&theme=novatorem&background_color=0d1117"
       width="320"
     />
   </a>
-
 </details>
 
 <details>
-  <summary><b>Connect</b></summary>
-
+  <summary><b>Know More ⚡️</b></summary>
   <br/>
-
-  - 🌐 Portfolio: https://kevinandrewa.vercel.app  
-  - 💼 LinkedIn: https://www.linkedin.com/in/kevin-andrew-a-49599528a  
-
+  Most of my work lives where systems meet intelligence — cloud-native architectures, edge deployments, and AI that actually ships.
+  <br/><br/>
+  Check out my complete portfolio at <a href="https://kevinandrewa.vercel.app">kevinandrewa.vercel.app</a>
 </details>
 
-<p align="center">
-  <sub>Still learning. Still building. </sub>
-</p>
+<details>
+  <summary><b>Reach Out 🤞</b></summary>
+  <br/>
+  Always up for good conversations — about tech, ideas, or anything worth building.
+  <br/><br/>
+  Find me on <a href="https://www.linkedin.com/in/kevin-andrew-a-49599528a">LinkedIn</a>
+</details>
+
+<br/>
+
+*Still learning. Still building.*
+
+</div>

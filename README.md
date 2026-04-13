@@ -25,6 +25,7 @@ I design and build intelligent systems at the intersection of **Cloud**, **Edge 
 
 <details>
   <summary><b>Know More ⚡️</b></summary>
+  <img src="cat-hiss.gif" width="250px" />
   <br/>
   Most of my work lives where systems meet intelligence — cloud-native architectures, edge deployments, and AI that actually ships.
   <br/><br/>

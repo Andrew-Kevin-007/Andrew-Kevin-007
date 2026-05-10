@@ -9,7 +9,6 @@ I design and build intelligent systems at the intersection of **Cloud**, **Edge 
 *Design it like Apple. Build it like SpaceX.*
 
 ---
-
 <details>
   <summary><b>🎧 Currently Vibing To</b></summary>
   <br/>

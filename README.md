@@ -26,7 +26,7 @@ I design and build intelligent systems at the intersection of **Cloud**, **Edge 
   <br/>
   Most of my work lives where systems meet intelligence — cloud-native architectures, edge deployments, and AI that actually ships.
   <br/><br/>
-  Check out my complete portfolio at <a href="https://www.kevinandrew.tech/">Portfolio</a>
+  Check out my complete <a href="https://www.kevinandrew.tech/">profile</a>
 </details>
 
 <details>

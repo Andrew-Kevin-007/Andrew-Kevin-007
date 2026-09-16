@@ -3,7 +3,7 @@
 <h1>Kevin Andrew</h1>
 
 Engineer. Builder. Thinker.  
-I design and build intelligent systems at the intersection of **Cloud**, **Edge Computing**, and **Applied AI** — software that scales, survives real-world constraints, and stays understandable over time.
+I design and build intelligent systems at the intersection of **Cloud**, **Edge Computing**, and **Applied AI** — software that scales, survives real-world constraints, and stays understandable over[...]
 
 *Design it like Apple. Build it like SpaceX.*
 
@@ -33,7 +33,7 @@ I design and build intelligent systems at the intersection of **Cloud**, **Edge 
   <br/>
   Always up for good conversations — about tech, ideas, or anything worth building.
   <br/><br/>
-  Find me on <a href="https://www.linkedin.com/in/kevin-andrew-a-49599528a">LinkedIn</a>
+  Find me on <a href="https://www.linkedin.com/in/kevinandrewa">LinkedIn</a>
 </details>
 
 <br/>

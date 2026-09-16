@@ -1,6 +1,6 @@
 <div align="left">
 
-<h1>Kevin Andrew A</h1>
+<h1>Kevin Andrew</h1>
 
 Engineer. Builder. Thinker.  
 I design and build intelligent systems at the intersection of **Cloud**, **Edge Computing**, and **Applied AI** — software that scales, survives real-world constraints, and stays understandable over time.

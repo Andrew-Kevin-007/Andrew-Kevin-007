@@ -6,9 +6,5 @@ I design and ship systems — quietly, and end to end.
 
 ---
 
-**Edith Studio** — my own practice. Open for select engagements.
-→ edithstudio.vercel.app
-
----
-
-*Everything above is live.*
+Edith Studio is open for select engagements.
+kevinandrew.tech

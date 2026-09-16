@@ -1,43 +1,23 @@
-<div align="left">
+# Kevin Andrew.
 
-<h1>Kevin Andrew</h1>
+Engineer. Builder. Founder, Edith Studio.
 
-Engineer. Builder. Thinker.  
-I design and build intelligent systems at the intersection of **Cloud**, **Edge Computing**, and **Applied AI** — software that scales, survives real-world constraints, and stays understandable over[...]
-
-*Design it like Apple. Build it like SpaceX.*
+I build systems, not demos.
 
 ---
-<details>
-  <summary><b>🎧 Currently Vibing To</b></summary>
-  <br/>
-  <a href="https://open.spotify.com/user/g0oyyt3dtmeerb9muk6aiwqcv" target="_blank">
-    <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=g0oyyt3dtmeerb9muk6aiwqcv&theme=novatorem&background_color=0d1117"
-      width="320"
-    />
-  </a>
-</details>
 
-<details>
-  <summary><b>Know More ⚡️</b></summary>
-  <img src="cat-hiss.gif" width="100px" height="150px"/>
-  <br/>
-  Most of my work lives where systems meet intelligence — cloud-native architectures, edge deployments, and AI that actually ships.
-  <br/><br/>
-  Check out my complete <a href="https://www.kevinandrew.tech/">profile</a>
-</details>
+**Etch** — a receipt layer for code.
+**STEM** — clone production without the blast radius.
+**CB-SJF-Work** — schedule inference without reading the prompt.
+**The Pit** — a proving ground where agents can't fake the result.
 
-<details>
-  <summary><b>Reach Out 🤞</b></summary>
-  <br/>
-  Always up for good conversations — about tech, ideas, or anything worth building.
-  <br/><br/>
-  Find me on <a href="https://www.linkedin.com/in/kevinandrewa">LinkedIn</a>
-</details>
+---
 
-<br/>
+Edith Studio. Open for select engagements.
+→ edithstudio.vercel.app
 
-*Still learning. Still building.*
+---
 
-</div>
+kevinandrew.tech · [GitHub](https://github.com/Andrew-Kevin-007) · [LinkedIn](https://www.linkedin.com/in/kevinandrewa/)
+
+*Everything above is live.*
